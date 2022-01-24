@@ -120,6 +120,13 @@ line3rdp.$(PRODUCT_BUNDLE_IDENTIFIER)
 - (void)eglsSdkInitCallBack;
 ```
 
+### IOS自定事件上报
+- （可选）设置trackKey
+```
+-(void)setTrackKey:(NSString*)trackKey;
+
+```
+
 
 ### iOS通知接口
 - （必选）SDK iOS代理接口
