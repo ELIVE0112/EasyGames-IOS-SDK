@@ -5,7 +5,7 @@
 
 ## 开发环境
 
-EGLS SDK for iOS 现有版本需要Xcode 10.0以上，iOS版本为9.0以上，支持适配iPhone，iPad，支持所有方向游戏。
+EasyGames SDK for iOS 现有版本需要Xcode 10.0以上，iOS版本为9.0以上，支持适配iPhone，iPad，支持所有方向游戏。
 
 
 ## 参数配置
@@ -31,7 +31,7 @@ EGLS SDK for iOS 现有版本需要Xcode 10.0以上，iOS版本为9.0以上，�
 
 
 #### 项目plist的scheme中需要添加的参数
-这里的参数是在plist中打开URL Types选项卡以后需要点击“+”号添加的每一组参数，其中每组需要添加的参数包括了Identifier和URL Schemes（Schemes）2项，如果没有对identifier做说明则不需要填入任何参数，如有疑问也请善用搜索或者直接联系EGLS帮助  
+这里的参数是在plist中打开URL Types选项卡以后需要点击“+”号添加的每一组参数，其中每组需要添加的参数包括了Identifier和URL Schemes（Schemes）2项，如果没有对identifier做说明则不需要填入任何参数，如有疑问也请善用搜索或者直接联系帮助  
 line3rdp.$(PRODUCT_BUNDLE_IDENTIFIER)
 |SDK国家版本/参数说明|大陆版本| 港澳台欧美俄（新加坡）|
 |:--:|:--:|:--:|
