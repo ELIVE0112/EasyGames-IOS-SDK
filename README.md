@@ -1,7 +1,7 @@
 # EasyGame IOS SDK
 
 ## 简介
-欢迎使用 EasyGames IOS SDK，當前最新版本為4.8.4
+欢迎使用 EasyGames IOS SDK，當前最新版本為4.8.50
 
 ## 开发环境
 
@@ -125,8 +125,11 @@ line3rdp.$(PRODUCT_BUNDLE_IDENTIFIER)
 ```
 -(void)setTrackKey:(NSString*)trackKey;
 
-```
 
+- （可选）传递自定义的追踪事件
+
+-(void)trackEventCustom:(NSString *)eventKey eventValue:(NSString *)eventValue
+```
 
 ### iOS通知接口
 - （必选）SDK iOS代理接口
