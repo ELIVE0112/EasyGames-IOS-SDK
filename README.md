@@ -1,7 +1,7 @@
 # EasyGame IOS SDK
 
 ## 简介
-欢迎使用 EasyGames IOS SDK，當前最新版本為4.8.50
+欢迎使用 EasyGames IOS SDK，當前最新版本為4.8.51
 
 ## 开发环境
 
