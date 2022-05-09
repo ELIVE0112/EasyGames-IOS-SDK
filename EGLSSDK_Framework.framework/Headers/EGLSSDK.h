@@ -2,7 +2,7 @@
 #import "EGLSSDKLoginManager.h"
 #import "EGLSSDKStaticData.h"
 
-static NSString * sdkVersion = @"4.8.5-4";
+static NSString * sdkVersion = @"4.8.5-3";
 
 
 
