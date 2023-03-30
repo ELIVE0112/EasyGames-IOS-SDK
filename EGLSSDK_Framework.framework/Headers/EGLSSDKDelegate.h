@@ -165,6 +165,15 @@
  */
 -(void)touchAgreementCallBack:(BOOL)state;
 
+
+/**
+ SDK删除账号回调
+ @param state 点击状态 true:点击删除 false:点击删除
+ */
+-(void)deleteAccountCallBack:(BOOL)state;
+
+
+
 - (void)eglsResponseError:(int ) responseCode andMessage:(NSString *) message;
 @end
 
