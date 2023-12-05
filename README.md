@@ -29,7 +29,7 @@ EasyGames SDK for iOS 现有版本需要Xcode 10.0以上，iOS版本为9.0以上
 |IsNeedFirebase（是否启用推送 ）|不需要|**需要**|
 |SupportedChannels（额外渠道登录 (cr[目前只有美国],line,phone[只有大陆和台湾才有此登录]) Array类型）|不需要|**需要**|
 |PassportPolicyUrl 自定义平台策略请求地址 -请根据实际情况沟通后配置（string类型）|不需要|不需要|
-|PassportShowFBLogin 是否显示FB登陆按钮 -请根据实际情况沟通后配置（boolg类型）|不需要|不需要|
+|PassportShowFBLogin 是否显示FB登陆按钮 -请根据实际情况沟通后配置（bool类型）|不需要|不需要|
 
 
 
